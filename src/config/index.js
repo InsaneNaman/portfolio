@@ -1,10 +1,10 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
+    author: "@InsaneNaman",
     siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+    siteShortTitle: "Naman Gupta", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
-    siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+    siteUrl: "https://insanenaman.com",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
 
@@ -12,28 +12,32 @@ module.exports = {
 
     // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
     // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
-    mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40konstantin.muenster",
-    shownArticles: 3,
+    mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fdev.to%2Ffeed%2Finsanenaman",
+    shownArticles: 4,
     
     // There are icons available for the following platforms: 
     // Medium, GitHub, LinkedIn, XING, Behance
     socialMedia: [
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/in/InsaneNaman/"
         },
         {
             name: "Medium",
-            url: "https://medium.com/@konstantin.muenster"
+            url: "https://medium.com/@InsaneNaman"
         },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
+            url: "https://github.com/InsaneNaman"
         },
         {
-            name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
+            name: "Twitter",
+            url: "https://www.twitter.net/InsaneNaman"
         },
+        {
+            name: "Dev",
+            url:"https://www.dev.to/InsaneNaman"
+        }
     ],
   
     navLinks: {
@@ -47,7 +51,7 @@ module.exports = {
                 url: "/#about",
             },
             {
-                name: "Features",
+                name: "Projects",
                 url: "/#projects",
             },
         ],
