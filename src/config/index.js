@@ -32,7 +32,7 @@ module.exports = {
         },
         {
             name: "Twitter",
-            url: "https://www.twitter.net/InsaneNaman"
+            url: "https://www.twitter.com/InsaneNaman"
         },
         {
             name: "Dev",
