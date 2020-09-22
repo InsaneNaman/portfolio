@@ -169,7 +169,7 @@ const Interests = ({ content }) => {
                 textAlign="left"
                 color="primary"
               >
-                + Load more
+                + More Web Spells
               </Button>
             </motion.div>
           )}

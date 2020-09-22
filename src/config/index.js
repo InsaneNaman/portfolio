@@ -2,7 +2,7 @@ module.exports = {
 
     author: "@InsaneNaman",
     siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Naman Gupta", // Used as logo text in header, footer, and splash screen
+    siteShortTitle: "<WebNinja/>", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
     siteUrl: "https://insanenaman.com",
     siteLanguage: "en_US",
