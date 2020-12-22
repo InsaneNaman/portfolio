@@ -1,9 +1,9 @@
 module.exports = {
 
     author: "@InsaneNaman",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
+    siteTitle: "InsaneNaman - <WebNinja/>",
     siteShortTitle: "<WebNinja/>", // Used as logo text in header, footer, and splash screen
-    siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
+    siteDescription: "Yo! I am a New Delhi based Full Stack Product Developer Full Stack Developer and a Web Creator with a passion for building great products. ",
     siteUrl: "https://insanenaman.com",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
@@ -13,7 +13,7 @@ module.exports = {
     // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
     // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
     mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fdev.to%2Ffeed%2Finsanenaman",
-    shownArticles: 4,
+    shownArticles: 3,
     
     // There are icons available for the following platforms: 
     // Medium, GitHub, LinkedIn, XING, Behance
@@ -61,14 +61,14 @@ module.exports = {
         }
     },
 
-    // footerLinks: [
-    //     {
-    //         name: "Privacy",
-    //         url: "/privacy"
-    //     },
-    //     {
-    //         name: "Imprint",
-    //         url: "/imprint"
-    //     }
-    // ]
+    footerLinks: [
+        // {
+        //     name: "Privacy",
+        //     url: "/privacy"
+        // },
+        // {
+        //     name: "Imprint",
+        //     url: "/imprint"
+        // }
+    ]
 }
